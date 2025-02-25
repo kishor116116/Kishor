@@ -5,7 +5,7 @@
 - 🔭 I’m working on **Amazon, Netflix & Spotify Clones**  
 - 🌱 Currently learning **Node.js & Backend Development**  
 - 💬 Ask me about **Frontend & Backend Development**  
-- 📸 Instagram: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k__i__s__h__o__r__7/)
+- 📸 Instagram: [![Kishor](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k__i__s__h__o__r__7/)
  
 
 ### 🚀 Tech Stack  
